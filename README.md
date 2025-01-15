@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋 I'm Dhvani </h2>
-<h3 align="center">I'm A Full Stack Developer from India </h3>
+<h3 align="center">I'm A Full Stack Developer From India </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/dhvani091402" target="_blank">
