@@ -1,8 +1,10 @@
-### Hi 👋 I'm Dhvani
- <h3 align="center">I'm A Full Stack Developer from India </h3>
+<h2 align="center"> Hi 👋 I'm Dhvani </h2>
+<h3 align="center">I'm A Full Stack Developer from India </h3>
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dhvani091402)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhvanidoshi1812/)
+<p align="left">
+<a href="https://twitter.com/https://x.com/dhvani091402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dhvani091402" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhvanidoshi1812/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhvanidoshi1812/" height="30" width="40" /></a>
+</p>
 
 ## 🔧 Languages and Tools:
 <p align="left"> 
