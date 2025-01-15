@@ -25,4 +25,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username)
 
 ## 📊 Most Used Languages:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhvanidoshi&show_icons=true&locale=en&layout=compact" alt="dhvanidoshi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhvanidoshi&show_icons=true&locale=en" alt="dhvanidoshi" /></p>
